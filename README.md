@@ -12,7 +12,6 @@ This project implements three Physics-Informed Neural Network (PINN) experiments
 
 - `notebooks/PINN_Mechanics_Final_Local.ipynb` — final executable notebook.
 - `report/PINN_Mechanics_Report.pdf` — two-page project write-up.
-- `presentation/PINN_Mechanics_Presentation.pptx` — presentation slides.
 - `requirements.txt` — Python dependencies.
 
 ### How to run
