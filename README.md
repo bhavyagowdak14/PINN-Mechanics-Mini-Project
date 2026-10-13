@@ -53,7 +53,7 @@ The reduced validation run is a practical demonstration and **not an exact numer
 - Experiment 1 MSE: `0.005721172793339642`
 - Experiment 1 maximum absolute error: `0.9098457509015547`
 - Experiment 2 PDE residual MSE: `0.013626818545162678`
-- Experiment 2 boundary error: `Not recorded`
+- Experiment 2 boundary error: `0.01187849`
 - Experiment 3 identified damping `c`: `1.105580` (true value 0.4)
 - Experiment 3 identified stiffness `k`: `1.047393` (true value 4.0)
 
